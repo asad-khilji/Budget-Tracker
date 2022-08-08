@@ -19,7 +19,7 @@
 * https://asad-khilji.github.io/Budget-Tracker/
 
 ## Screenshot
-![Screenshot.jpg]();
+![Screenshot.jpg](https://github.com/asad-khilji/Budget-Tracker/blob/main/public/images/Screenshot.jpg);
 
 ## Contribution
 * Made By Asad Khilji
